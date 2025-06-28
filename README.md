@@ -1,6 +1,6 @@
 # MinePad
 MinePad is a HackPad for Minecraft lovers, like myself!    
-These 9 keys (and rotary dial) are all you need to play Minecraft!    
+These 9 keys (and rotary dial) are all you need to play Minecraft!    (except for, well... a mouse. one day i can make this into a mouse?!!!)    
 Keybinds:   
 | Tab | W | E |
 |--------|--------|--------|
