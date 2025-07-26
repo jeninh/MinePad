@@ -9,8 +9,8 @@ keyboard = KMKKeyboard()
 
 #3x3
 keyboard.matrix = MatrixScanner(
-    cols=[board.A0, board.A1, board.A2],   # col0, col1, col2
-    rows=[board.A3, board.GP6, board.GP7], # row0, row1, row2
+    cols=[board.GP26, board.GP27, board.GP28],   # col0, col1, col2
+    rows=[board.GP29, board.GP6, board.GP7], # row0, row1, row2
     diode_orientation=MatrixScanner.DIODE_COL2ROW
 )
 
