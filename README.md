@@ -1,5 +1,5 @@
 # MinePad
-![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/db9889c3b48c342fe33fd46145ae4311869ba75a_image.png)
+<img width="983" height="789" alt="image" src="https://github.com/user-attachments/assets/4e8ba37f-65a5-4937-a051-db62d2a68f67" />
 MinePad is a HackPad for Minecraft lovers, like myself!    
 These 9 keys (and rotary dial) are all you need to play Minecraft!    (except for, well... a mouse. one day i can make this into a mouse?!!!)    
 Keybinds:   
